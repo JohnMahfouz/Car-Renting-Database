@@ -34,18 +34,6 @@ This repository contains the full database design for a **Car Renting System**, 
 - `AgencyManager` (tracks branch managers)
 - `ReservationVehicle`, `ReservationDeal` (many-to-many mappings)
 
----
 
-## 📊 Diagrams
-
-### 🖼️ Relational Schema
-
-The relational schema shows the actual implementation layout of the database tables, keys, and relationships.  
-📁 **File**: `Car Renting schema.png`
-
-### 🧭 Entity-Relationship Diagram (ERD)
-
-The ERD presents the conceptual structure of the database — including entities, attributes, and how they relate.  
-📁 **File**: `Car renting ERD.png`
 
 
